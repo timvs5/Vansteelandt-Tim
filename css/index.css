@@ -1,0 +1,62 @@
+
+body {
+    background-image: url("../pictures/6935544-white-backgrounds-hd.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+.header{
+  
+}
+
+.headerimage{
+   width: 100%;
+   position: relative;
+}
+
+.headertext{
+   position: absolute; 
+   top: 50px; 
+   left: 0;
+   width: 100%;
+   font-size: 50px;
+}
+
+.indexinfo {
+    margin-right: 20%;
+    margin-left: 25px;
+    margin-bottom: 10px
+    
+}
+
+.infobox {
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.infoboximage{
+    margin-bottom: 50px;
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 10px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.sideimage {
+    float:right;
+    clear: left;
+    width: 100%;
+}
+
+.navbar{
+    border-radius: 0;
+    margin-bottom: 0px;
+}
