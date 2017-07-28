@@ -1,0 +1,11 @@
+body{
+    background: url("../pictures/questionmark-green.jpg");
+    background-size: cover;
+}
+
+p {
+    margin-right: 20%;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+}
